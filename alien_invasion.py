@@ -32,7 +32,7 @@ class AlienInvasion:
 
         self._create_fleet()
 
-        # membuat play button dan fullscreen button
+        # membuat play button
         self.play_button = Button(self, 'Play')
         
     def run_game(self):
